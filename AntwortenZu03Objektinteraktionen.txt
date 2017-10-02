@@ -1,0 +1,13 @@
+03 Objektinteraktion
+
+Aufgabe 1:
+
+Welche Variante gefällt ihnen besser? 
+Die mit den Zwei Klassen
+
+Wieso? 
+Weil modularer. 
+
+
+Was sind die Vorteile der einen Variante im Vergleich zur anderen?
+Man könnte beispielsweise einfacher eine Sekundenanzeige dazu programmieren. 

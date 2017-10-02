@@ -18,6 +18,8 @@ public class Uhrenanzeige
   private int stundenWert;
   private int minutenLimit;
   private int minutenWert;
+  private int sekundenLimit;
+  private int sekundenWert;
   private String zeitanzeige;    // simuliert die tatsaechliche Anzeige
 
   /**
