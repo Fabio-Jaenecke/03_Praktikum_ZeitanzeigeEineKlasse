@@ -3,6 +3,7 @@
  * Die Anzeige zeigt Stunden und Minuten. Der Anzeigebereich reicht von
  * 00:00 (Mitternacht) bis 23:59 (eine Minute vor Mitternacht).
  *
+ *
  * Eine Uhrenanzeige sollte minütlich "Taktsignale" (über die Operation
  * "taktsignalGeben") erhalten, damit sie die Anzeige aktualisieren 
  * kann. Dies geschieht, wie man es bei einer Uhr erwartet: Die 
